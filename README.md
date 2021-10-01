@@ -1,9 +1,9 @@
 ## About Me  🐱‍💻
   I am Bione, a Web Developer currently working at AnimoConsultoria and IT Student.
-  
+  <div> 
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bioneoficial&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bioneoficial&layout=compact&langs_count=7&card_width=255&theme=dark"/>
-  
+  </div>
 ## Skills
 <div> 
   <img align="center" alt="Bione-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
