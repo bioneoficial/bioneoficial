@@ -1,5 +1,5 @@
 ## About Me  🐱‍💻
-  I am Bione, a Web Developer currently working at AnimoConsultoria and IT Student.
+  I am Bione, a Web Developer currently working at Ciandt and IT Student in UNILASALLE where i am TI Director in the Junior Company.
   <div> 
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bioneoficial&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bioneoficial&layout=compact&langs_count=7&card_width=255&theme=dark"/>
@@ -14,6 +14,7 @@
   <img align="center" alt="Bione-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Bione-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Bione-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+   <img align="center" alt="Bione-Spring" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg">
   </div>
 
 ## Reach Me Out
