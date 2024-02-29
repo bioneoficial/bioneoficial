@@ -1,5 +1,5 @@
 ## About Me  🐱‍💻
-  I am Bione, a Senior FullStack Web Developer currently working at META.
+  I am Bione, a Senior FullStack Web Developer currently working at Fuerza Studio.
   <div> 
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bioneoficial&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bioneoficial&layout=compact&langs_count=7&card_width=255&theme=dark"/>
